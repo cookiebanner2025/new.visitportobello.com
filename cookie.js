@@ -292,7 +292,7 @@ geoConfig: {
     color: '#ffffff !important',
     border: '1px solid #3bac83 !important',
     hover: {
-        background: '#1177d0 !important',
+        background: '#3bac83 !important',
         color: '#ffffff !important',
         transform: 'translateY(-1px) !important'
     }
