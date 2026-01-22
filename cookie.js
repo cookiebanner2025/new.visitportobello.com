@@ -82,7 +82,7 @@ function isEEAVisitor() {
 
 const config = {
     // Domain restriction
-    allowedDomains: ['new.visitportobello.com'],
+    allowedDomains: ['visitportobello.com'],
     
     // Privacy policy URL (configurable)
     privacyPolicyUrl: 'https://new.visitportobello.com/cookie-consent-notice', // Add your full privacy policy URL here
@@ -860,7 +860,7 @@ const translations = {
     en: {
         title: "We value your privacy",
         description: "We use cookies to improve your browsing experience, provide personalized ads or content, and analyze our traffic. By clicking \"Accept All,\" you consent to the use of cookies.",
-        privacy: "Privacy Policy",
+        privacy: "Cookie Policy",
         customize: "Adjust",
         reject: "Reject all",
         accept: "Accept all",
