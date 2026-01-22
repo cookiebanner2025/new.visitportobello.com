@@ -85,7 +85,7 @@ const config = {
     allowedDomains: ['new.visitportobello.com'],
     
     // Privacy policy URL (configurable)
-    privacyPolicyUrl: 'https://new.visitportobello.com/#privacy-policy', // Add your full privacy policy URL here
+    privacyPolicyUrl: 'https://new.visitportobello.com/cookie-consent-notice', // Add your full privacy policy URL here
 
 
 
